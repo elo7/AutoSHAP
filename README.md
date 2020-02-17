@@ -9,3 +9,18 @@ AutoSHAP is a simple framework built on top of [SHAP](https://github.com/slundbe
      style="float: left; margin-right: 3px; width: 200;" />  
      
 The second class, _SHAPViews_, allows one to see interactive plots of features and Shapley values. This is specially useful to analyze the distribution of some feature values while filtering them by some chosen Shapley Values.
+
+## Installation
+
+Clone this repository,
+```bash
+git clone git@github.com:elo7/AutoSHAP.git
+```
+and inside it use pip to install:
+```bash
+pip install .
+```
+
+## Examples
+
+You can check application examples in the [notebooks](notebooks/)
