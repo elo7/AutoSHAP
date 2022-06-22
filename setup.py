@@ -4,7 +4,7 @@ version = "0.0.4"
 
 requirements = ["xgboost==0.90",
                 "shap==0.31.0",
-                "numpy==1.17.3",
+                "numpy==1.22.0",
                 "pandas==0.25.2",
                 "scikit-learn==0.21.3",
                 "joblib==0.14.0",
