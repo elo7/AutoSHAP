@@ -7,7 +7,7 @@ requirements = ["xgboost==0.90",
                 "numpy==1.17.3",
                 "pandas==0.25.2",
                 "scikit-learn==0.21.3",
-                "joblib==0.14.0",
+                "joblib==1.2.0",
                 "seaborn==0.9.0"
                 ]
 
